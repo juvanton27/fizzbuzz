@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57e275b4-0054-4fc0-8774-4ed533c09206" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ipRmSw1VIfmiN8TTqG5v9pZ1rR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FizzBuzzTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="FizzBuzzTest" file="$PROJECT_DIR$/FizzBuzzTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.FizzBuzzTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e275b4-0054-4fc0-8774-4ed533c09206" name="Default Changelist" comment="" />
+      <created>1602602705518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602602705518</updated>
+      <workItem from="1602602706602" duration="1106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1020" y="194" key="#CLI_Interpreters" timestamp="1602603093962">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1020" y="194" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1602603093962" />
+    <state x="1243" y="419" key="#Composer" timestamp="1602602723345">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1243" y="419" key="#Composer/0.0.1920.1080@0.0.1920.1080" timestamp="1602602723345" />
+    <state x="220" y="202" key="#PHP" timestamp="1602603393196">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="220" y="202" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1602603393196" />
+    <state x="304" y="463" key="Github.CreateGistDialog" timestamp="1602603769337">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="304" y="463" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602603769337" />
+    <state x="1267" y="463" key="NewPhpFileDialog" timestamp="1602602762901">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1267" y="463" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602602762901" />
+    <state x="1150" y="283" width="680" height="513" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1602602843626">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1150" y="283" width="680" height="513" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602602843626" />
+    <state x="1089" y="252" key="run.anything.popup" timestamp="1602602890430">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1089" y="252" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602602890430" />
+  </component>
+</project>
