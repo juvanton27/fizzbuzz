@@ -21,8 +21,15 @@ class FizzBuzzTest extends TestCase
         $this->assertEquals("1", $actual);  //Exemple : $this->assertTrue(true);$this->assertEquals(true, true);
     }
 
-    public function test_count_given2_shouldReturn2(){$actual = $this->fizzBuzz->count(2);
+    public function test_count_given2_shouldReturn2(){
+        $actual = $this->fizzBuzz->count(2);
 
         $this->assertEquals("2", $actual);
+    }
+
+    public function test_count_given3_shouldReturnFizz(){
+        $actual = $this->fizzBuzz->count(3);
+
+        $this->assertEquals("Fizz", $actual);
     }
 }
